@@ -1,4 +1,4 @@
-# Ants-Project
+# Ants Project
 ![splash](https://user-images.githubusercontent.com/98563830/215884908-0aee7a6f-d024-4809-b167-9eea25b9304a.png)
 
 ## Files
