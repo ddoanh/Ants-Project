@@ -52,5 +52,5 @@ Below is a visualization of a GameState
 ![colony-drawing](https://user-images.githubusercontent.com/98563830/215889158-a5ffedd2-2ac8-45ae-aee4-5f5ed61f700a.png)
 
 ## Objective Map
-[ants_diagram.pdf](https://github.com/ddoanh/Ants-Project/files/10551296/ants_diagram.pdf)
+[ants_diagram.pdf](https://github.com/ddoanh/Ants-Project/files/10551301/ants_diagram.pdf)
 
